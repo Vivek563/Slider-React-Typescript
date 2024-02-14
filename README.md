@@ -1,6 +1,11 @@
 # Slider Project
 #### This project implements a custom slider component in React, allowing users to select values within a restricted range.
 
+### Live Demo: 
+[Click me](https://https://slider-react-typescript.vercel.app/)
+
+
+
 **Getting Started**
 
 To get started with this project, follow these steps:
