@@ -8,7 +8,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-    git clone <repository-url>
+    git clone https://github.com/Vivek563/Slider-React-Typescript.git
 ```
 
 2. Navigate to the project directory:
@@ -30,12 +30,11 @@ To get started with this project, follow these steps:
 
 5. Open your web browser and navigate to http://localhost:3000 to view the application.
 
-6. Usage
+### Usage
 
 *Once the application is running, you will see a slider component with predefined marks indicating specific values. Users can slide the handle to select a value within the allowed range.*
 
-
-7. Customization
+### Customization
 
 The slider component supports the following props for customization:
 
